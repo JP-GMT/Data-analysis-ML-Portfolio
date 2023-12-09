@@ -1,6 +1,6 @@
 -- ### STROKE DATASET EXPLORATION USING SQL ### ---
 
--- (Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+-- (Data Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 
 -- #Information of the dataset#--
