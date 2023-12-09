@@ -1,6 +1,10 @@
 -- ### STROKE DATASET EXPLORATION USING SQL ### ---
 
--- #Information of the dataset
+-- (Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+
+-- #Information of the dataset#--
+
 -- 1) id: unique identifier
 -- 2) gender: "Male", "Female" or "Other"
 -- 3) age: age of the patient
