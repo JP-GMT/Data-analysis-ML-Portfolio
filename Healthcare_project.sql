@@ -1,7 +1,7 @@
 --- ### HEALTHCARE DATASET EXPLORATION PROJECT WITH SQL ### ---
 
 
- -- (source:https://www.kaggle.com/datasets/prasad22/healthcare-dataset) --
+ -- (Data source:https://www.kaggle.com/datasets/prasad22/healthcare-dataset) --
 
 
  --## Show Table
